@@ -7,6 +7,9 @@ We meet monthly and quarterly to discuss and learn about the Linux family of ope
 
 ## History
 
+### Fort Wayne LUG 0.0: Genesis
+What are the origins of the Fort Wayne Linux Users Group? The oldest published source on the web states that a group was active in 1999, with a separate high school group coexisting with it at around the same time. You can read more about it [here](http://fwlug.tripod.com/fwlug.html). Do you know of an online or offile group specifically for Fort Wayne area Linux users that existed prior to 1999? Please contact us and let us know about it!
+
 ### Fort Wayne LUG 1.0
 Our group was founded in 2003 by Dr. Ceder of Canterbury High School, a published expert on Python, along with Rob Ludwick, and later Simón Ruíz. We met bi-monthly at one social and one learning-focused event. After many years of well-attended and productive meetings, various members began transitioning to new chapters in their lives and attendance began to decline in 2012. In 2013, LUG transitioned to a social meetup only.
 
