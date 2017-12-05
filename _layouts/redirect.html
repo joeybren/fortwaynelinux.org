@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta charset="UTF-8"/>
+		<script>
+			document.addEventListener('DOMContentLoaded', function () {
+				window.location.href = '{{ page.redirectUrl }}';
+			});
+		</script>
+	</head>
+	<body>
+		<p>If you are not redirected, click here: <a href="{{ page.redirectUrl }}">{{ page.redirectUrl }}</a></p>
+	</body>
+</html>
