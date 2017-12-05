@@ -3,30 +3,36 @@ layout: default
 title: Mission
 ---
 
-#Our Mission
+# Our Mission
+* [Advocate](#advocate)
+* [Educate](#educate)
+* [Certify](#certify)
+* [Diversify](#diversify)
+* [Empower](#empower)
+* [Employ](#employ)
+* [Socialize](#socialize)
+* [Celebrate](#celebrate)
 
-##Advocate|Educate|Certify|Diversify|Empower|Employ|Socialize|Celebrate
-
-###Advocate
+## Advocate
 By talking to local businesspeople, educators and government officials about the benefits of Linux and Open Source.
 
-###Educate
+## Educate
 By holding regular public educational meetings and demonstrations, by coordinating on-and-off-line volunteer tutoring and assistance on Linux and Open Source software alternatives. We will coordinate with local schools and colleges to promote Linux education at all ages and experience levels.
 
-###Certify
+## Certify
 By offering free assessments of user’s knowledge and ability of Linux and help in planning self-study and guided study options to enable them to successfully complete recognized Linux certification exams such as CompTIA Linux+ and LPI Linux. When possible, we will offer annual reduced-price certification crash courses and certification exams at our annual Northeast Indiana Linux Fest.
 
-###Diversify
+## Diversify
 By reaching out to people and communities who are less likely to use Linux and have fewer opportunities to learn, in order to diversify the Linux user base and workforce in our region.
 
-###Empower
+## Empower
 By enabling users to increase their control of their own systems and manage their own data for their own purposes, free of onerous licenses, and with the option to use free or paid software solutions as they see fit.
 
-###Employ
+## Employ
 By helping members network and connect with Linux and Open Source employers in our region, and raise awareness among employers considering relocation to Indiana that our region has a large, diverse and growing pool of Linux and Open source users and professionals.
 
-###Socialize
+## Socialize
 By holding regular social outings and maintaining a social media presence to support and provide a social network for local Linux users and professionals.
 
-###Celebrate
+## Celebrate
 By holding an annual Northeast Indiana Linux Fest, mostly for fun, but also mindful that everything we do is in furtherance of the above goals.
