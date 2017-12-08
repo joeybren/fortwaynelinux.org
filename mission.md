@@ -20,7 +20,7 @@ By talking to local businesspeople, educators and government officials about the
 By holding regular public educational meetings and demonstrations, by coordinating on-and-off-line volunteer tutoring and assistance on Linux and Open Source software alternatives. We will coordinate with local schools and colleges to promote Linux education at all ages and experience levels.
 
 ## Certify
-By offering free assessments of user’s knowledge and ability of Linux and help in planning self-study and guided study options to enable them to successfully complete recognized Linux certification exams such as CompTIA Linux+ and LPI Linux. When possible, we will offer annual reduced-price certification crash courses and certification exams at our annual Northeast Indiana Linux Fest.
+By collaborating with the Linux Professional Institute, CompTIA et al. in assessments of user’s knowledge and ability of Linux and help in planning self-study and guided study options to enable them to successfully complete recognized Linux certification exams such as CompTIA Linux+ and LPI Linux. When possible, we will offer annual reduced-price certification exams at our annual Northeast Indiana Linux Fest.
 
 ## Diversify
 By reaching out to people and communities who are less likely to use Linux and have fewer opportunities to learn, in order to diversify the Linux user base and workforce in our region.
