@@ -26,10 +26,11 @@ footer-links:
   linkedin:
   pinterest:
   rss: yayrss # just type anything here for a working RSS icon
-  twitter: fwlug
+  twitter: fortwaynelinux
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
+  meetup: Fort-Wayne-Linux-Users-Group/ # for the main page of your Meetup group, everything after meetup.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
