@@ -18,3 +18,7 @@ In 2014, with the gracious support of Sweetwater Sound, we began meeting bi-mont
 
 ### Fort Wayne LUG 3.0
 Beginning in the autumn of 2017, we have decided to transition to a monthly/quarterly format, where we will continue to have social meetings once a month, with regularly-scheduled quarterly learning events with a pre-announced speaker. We are also planning other occasional special events when member schedules permit. Be sure to contact us here or on Facebook if you would like to get in touch with other members at Ohio Linux Fest 2017.
+
+
+## Code of Conduct
+The Fort Wayne Linux Users Group expects everyone to conduct themselves professionally and respectfully. If you need assistance relating to conduct of another person at one of our events, please [contact us](mailto:contact@fortwaynelinux.org).
