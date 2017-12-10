@@ -5,6 +5,13 @@ title: About
 # About our Group
 We meet monthly and quarterly to discuss and learn about the Linux family of operating systems and other free-and-open source software.
 
+- [History](#history)
+	- [Fort Wayne LUG 0.0: Genesis](#fort-wayne-lug-00-genesis)
+	- [Fort Wayne LUG 1.0](#fort-wayne-lug-10)
+	- [Fort Wayne LUG 2.0](#fort-wayne-lug-20)
+	- [Fort Wayne LUG 3.0](#fort-wayne-lug-30)
+- [Code of Conduct](#code-of-conduct)
+
 ## History
 
 ### Fort Wayne LUG 0.0: Genesis
