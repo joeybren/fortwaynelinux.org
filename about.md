@@ -2,6 +2,7 @@
 layout: default
 title: About
 ---
+
 # About our Group
 We meet monthly and quarterly to discuss and learn about the Linux family of operating systems and other free-and-open source software.
 
