@@ -4,14 +4,14 @@ title: Mission
 ---
 
 # Our Mission
-* [Advocate](#advocate)
-* [Educate](#educate)
-* [Certify](#certify)
-* [Diversify](#diversify)
-* [Empower](#empower)
-* [Employ](#employ)
-* [Socialize](#socialize)
-* [Celebrate](#celebrate)
+- [Advocate](#advocate)
+- [Educate](#educate)
+- [Certify](#certify)
+- [Diversify](#diversify)
+- [Empower](#empower)
+- [Employ](#employ)
+- [Socialize](#socialize)
+- [Celebrate](#celebrate)
 
 ## Advocate
 By talking to local businesspeople, educators and government officials about the benefits of Linux and Open Source.
